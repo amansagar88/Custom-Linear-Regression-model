@@ -2,6 +2,8 @@
 
 This repository contains a Jupyter Notebook that dives deep into the implementation of Simple and Multiple Linear Regression models from scratch using the powerful NumPy library. It also provides a clear comparison of the performance of these custom-built models to the corresponding highly optimized models available in the popular scikit-learn library.
 
+Access the notebook [here](https://github.com/amansagar88/Custom-Linear-Regression-model/blob/main/linear-regression-model.ipynb)
+
 ## Project Overview ✨💡
 
 The core objective of this project is to gain a thorough understanding of the fundamental principles and inner workings of linear regression by constructing the models entirely from the ground up. The notebook systematically demonstrates the mathematical concepts underpinning both simple and multiple linear regression and provides clear, well-commented Python code implementations. The implemented models are then rigorously tested and evaluated by applying them to a real-world dataset to assess their predictive capabilities and performance.
